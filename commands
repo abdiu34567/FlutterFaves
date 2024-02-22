@@ -1,0 +1,5 @@
+flutter devices
+
+flutter emulators
+
+flutter emulators --launch <emulator id>
